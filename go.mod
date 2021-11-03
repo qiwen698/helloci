@@ -1,3 +1,3 @@
 module github.com/qiwen698/helloci
 
-go 1.17
+go 1.16
